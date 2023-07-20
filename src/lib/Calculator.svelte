@@ -46,6 +46,7 @@
     <button type="submit">Calculate Result</button>
   </form>
   <p class="result">{ result }</p>
+  <p>Possible entries: a b + ; a b - ; a b * ; a b / ; a b ** ; a sin </p>
 </div>
 
 <style>
